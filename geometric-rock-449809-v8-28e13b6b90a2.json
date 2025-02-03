@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "geometric-rock-449809-v8",
+  "private_key_id": "28e13b6b90a2db3b1b51d0a731169098928f7c91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC01IOtopZ6R4Ne\nGEFYIAPxepmXQJ8oiKqOknURW1TTMeqh/0e2qWmaxwZ2KsMABx/618fcLIPFc9oE\nWI5Tdvmksi5GHNdIuzDfbRnynh4qnQzGmCWt0TnzCdlN1bQA+qA+mYQwKyaNMOEG\n0xB+hAmb02Ca++JQfNVLnTyABr0hd/kftd2oCFOdSqOffuW8m5dRHWJTHgrNJe4R\nkF6nxKgHq8IvVqu8zn+Iw2F02rHz59ytBdagzebbuC2BBG7HXchRtB8zd+/MpaKZ\n0Ufe1tC7kLlDxkuy+H7/sVtg2rqaaLHaF66U6NIRD8MeK+SAfnT4mpbihgVeV+C5\nv0z6eH73AgMBAAECggEAI//Wwx+GI4vPHFFp2Nhu0IkewJzN0qz6f22qvqzXA0CB\nvIRsy3GIo5aRs76pmXzRogeJM0ztYsbAlXLnyrf51Q7f5XdiaIlTnndC3ikaSlN/\nsp2hiqwHhFnml/c+YZ+DfVLknQ5KG3uqoMguFXHF0+7N4azZjjp74BTKcZZl2p6I\nZpn374lPB06zlx7IKyJbAm4quRLlQcGKAU6E21+HCuNtt+sZXMaDMB3ylXMgcfzE\n7UWf0SmBaq9ijjh2MjNIEyyohJ5Cwfn/l1wrQqGnCYYhySfY5+ZEhG/G6ihJx0FN\nK87//cG771DwDjOka+E5ME7xZ+A/WhTxaHR3ZQY2+QKBgQD1BiSEZ2uepV5uC35k\nKcsudjL1cUZw43hS1zWaVUJyI878ps0yRwBWDghVlM7qEhNKptM/5itFeQGZaFiN\nO30Qv3Hfh5NutrpUAXhcdbiW7Zx4WDHu+51ZXHYpA3PvLLNz/Xfv08z4Q7Mn9okj\nWv+C6EZnGhXCgoSitLNowuwKNQKBgQC87jeH9gHD93oI2Evx1DixwLK3nYIpzZqe\nGH9WgOzdNoSZ1GqawpYQtHQ9HfUFpeIDQiFM9PaZOCiI4XTfyX/IOI4caAvWdBtF\nJnMzNYkDBKe5Y8mI7ZsQtRm8Q97Czdni0QZAR55g0NtaUrXpjmYQd2q8uhAXpV69\nlw0wfsgp+wKBgQCPe/tiddW1340+0AhBy5+qI5mP1be0X+CUUmaXbBovEP0jQuKi\n8KUnv6vtweixdchKTQskPjtUwZnIJizE9/MzHYknpxMVIHhYvUuoiV+BMsAQUUVc\nd4gbTmP7fIQlqX2lDOdxUAyVzb9aRarlQ2KhXDfuJH5dm2TkiwEM9iiXiQKBgQCu\nUsceRlk+rjwFqT35tq1RJdJBJa4SUEmYElZ8RJ1JR6J2Jc7vWRgJ9ddDBT8tpO+z\nvfLoBSb8HRsZoZ2rV0r2PWiywTYa/CqlVWL6Hy16gXMY1gAAvexUMCW81orWCAZB\nCEjSSsLR5iRfZO3AwMlf7C+qT6vFhaqzGIrs8i5SvQKBgQDytta1fYaWsYOBBQMr\nN+ukjazYZ9LAvOxd8HluQMa4h8E7nVmcma2FTt1HEPx7dMWOa8XwZLHBnkTz1ZcX\n4G4krghK6ckWSA86urDUobFTzC7WoCPXSXYXatA5n0d5fZKZh7meA7LfZRm7+EHy\ntc4Wn1glWhu3cvZvNPPdmxQR8Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@geometric-rock-449809-v8.iam.gserviceaccount.com",
+  "client_id": "113866340210752302503",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40geometric-rock-449809-v8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
